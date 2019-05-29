@@ -1,4 +1,4 @@
-List the Wikipedia articles you might want to have a look before reading the one you specified.
+List the Wikipedia articles you might want to check out first.
 ```bash
 node search.js [current-article-title]
 ```
